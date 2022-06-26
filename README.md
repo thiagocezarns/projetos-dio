@@ -1,2 +1,5 @@
-# projetos-dio
-Repositório de projetos desenvolvidos da plataforma dio.
+# Projetos Dio
+Repositório para projetos desenvolvidos da plataforma Digital Innovation One.
+
+### Projetos desenvolvidos
+* [Flex Projeto](https://github.com/thiagocezarns/projetos-dio/tree/main/flex-projeto)
