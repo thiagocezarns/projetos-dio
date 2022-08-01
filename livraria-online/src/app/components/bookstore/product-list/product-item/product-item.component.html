@@ -1,0 +1,8 @@
+<div class="card">
+        <img class="card-img-top" [src]="book.img">
+    <div class="card-body">
+        <p class="card-text">{{ book.name }}</p>
+        <p class="card-text">{{ book.category }}</p>
+        <p class="card-text">{{ book.price | currency: 'BRL' }}</p>
+    </div>
+</div>
